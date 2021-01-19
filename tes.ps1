@@ -1,4 +1,2 @@
-$counter =0
-while($counter -eq 0){
-echo "working"
-}
+cd "C:\Users\gauraansh\Desktop\"
+rm toBeDeleted.txt
